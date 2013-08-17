@@ -42,15 +42,3 @@ validation-staus.json
 .CVS
 .idea
 node_modules
-
-#AB-Misc
-_includes
-_layouts
-examples
-getting-started.html
-index.html
-javascript.html
-css.html
-customize.html
-dist
-gruntfile.js
